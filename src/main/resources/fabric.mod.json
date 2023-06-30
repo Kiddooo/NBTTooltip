@@ -5,7 +5,8 @@
   "name": "NBT Tooltip",
   "description": "Add a handy tooltip to items, showing NBT data",
   "authors": [
-    "Zabi94"
+    "Zabi94",
+    "Kiddooo"
   ],
   "contact": {
   },
@@ -23,7 +24,7 @@
   "depends": {
     "fabricloader": "*",
     "fabric": "*",
-    "minecraft": ">=1.19.3",
+    "minecraft": ">=1.20.1",
     "java": ">=17"
   }
 }
